@@ -1,0 +1,31 @@
+{
+    "schema": {
+        "attributes": {
+            "type": "keyword"
+        },
+        "attribute_ontology_ids": {
+            "type": "keyword"
+        },
+        "attribute_units": {
+            "type": "keyword"
+        },
+        "attribute_unit_ontology_ids": {
+            "type": "keyword"
+        },
+        "attribute_values": {
+            "type": "keyword"
+        },
+        "attribute_value_ontology_ids": {
+            "type": "keyword"
+        },
+        "instances": {
+            "type": "keyword"
+        },
+        "num_attributes": {
+            "type": "integer"
+        },
+        "num_instances": {
+            "type": "integer"
+        }
+    }
+}

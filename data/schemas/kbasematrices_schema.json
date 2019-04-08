@@ -1,0 +1,40 @@
+{
+    "schema": {
+        "matrix_type": {
+            "type": "keyword"
+        },
+        "row_attributes": {
+            "type": "keyword"
+        },
+        "col_attributes": {
+            "type": "keyword"
+        },
+        "row_attribute_ontology_ids": {
+            "type": "keyword"
+        },
+        "col_attribute_ontology_ids": {
+            "type": "keyword"
+        },
+        "row_attribute_values": {
+            "type": "keyword"
+        },
+        "col_attribute_values": {
+            "type": "keyword"
+        },
+        "row_ids": {
+            "type": "keyword"
+        },
+        "col_ids": {
+            "type": "keyword"
+        },
+        "num_rows": {
+            "type": "integer"
+        },
+        "num_columns": {
+            "type": "integer"
+        },
+        "attributes": {
+            "type": "keyword"
+        }
+    }
+}
